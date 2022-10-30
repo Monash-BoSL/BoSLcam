@@ -340,7 +340,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "owts.kicad_pro",
+    "filename": "nRF_dev.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -372,10 +372,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "USB_DIFF_90",
-        "nets": [
-          "/USB_D+",
-          "/USB_D-"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.15,
@@ -413,7 +410,7 @@
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
       "label_size_ratio": 0.25,
-      "pin_symbol_size": 0.0,
+      "pin_symbol_size": 25.0,
       "text_offset_ratio": 0.08
     },
     "legacy_lib_dir": "",

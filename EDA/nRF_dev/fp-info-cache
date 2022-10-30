@@ -1,4 +1,4 @@
-19799182144883061
+19804183524072852
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84482,6 +84482,27 @@ varistor SIOV
 0
 2
 2
+project
+SIMNano
+
+
+0
+12
+7
+project
+TSNP-6-2
+
+
+0
+6
+6
+project
+microSD_Connector
+
+
+0
+14
+10
 project
 nRF9160
 
