@@ -3232,7 +3232,7 @@
   (gr_text "XCLK" (at 107.25 160.25 90) (layer "F.SilkS") (tstamp 3fb76ce8-17eb-4975-a689-8314b8b26469)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "BC" (at 105.5 147.25 90) (layer "F.SilkS") (tstamp 437156ff-7e21-4ddf-8022-f4d7d47b5e68)
+  (gr_text "NC" (at 105.5 147.25 90) (layer "F.SilkS") (tstamp 437156ff-7e21-4ddf-8022-f4d7d47b5e68)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "D1" (at 94.25 150 90) (layer "F.SilkS") (tstamp 43e1b86e-45de-4c87-a983-c824b93226da)
