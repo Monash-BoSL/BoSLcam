@@ -1,0 +1,24 @@
+### Module positions - created on Wed Dec 21 15:12:22 2022 ###
+### Printed by Pcbnew version (6.0.7)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                                   PosX       PosY       Rot  Side
+AT1       AT-MAIN         U.FL_Molex_MCRF_73412-0110_Vertical   -42.9780  -108.0000  -90.0000  bottom
+AT2       AT-GNSS         U.FL_Molex_MCRF_73412-0110_Vertical   -37.5020  -102.9110  -90.0000  bottom
+C2        100_nF          C_0402_1005Metric                     -86.0000  -111.5250   90.0000  bottom
+C3        100_nF          C_0402_1005Metric                     -63.4780  -107.3050   90.0000  bottom
+C5        100_nF          C_0402_1005Metric                     -63.9750  -113.2000   90.0000  bottom
+C6        15_pF           C_0402_1005Metric                     -63.0000  -113.2000   90.0000  bottom
+C7        1_μF           C_0402_1005Metric                     -63.4780  -109.1800   90.0000  bottom
+C8        100_nF          C_0402_1005Metric                     -64.2000  -101.8000  -90.0000  bottom
+C9        15_pF           C_0402_1005Metric                     -63.2000  -101.8000   90.0000  bottom
+C11       100_nF          C_0402_1005Metric                     -44.6780  -102.7000    0.0000  bottom
+C12       1_nF            C_0402_1005Metric                     -41.0780  -102.9110    0.0000  bottom
+J3        Micro_SD_Card   microSD_Connector                     -99.0000  -107.3450  -90.0000  bottom
+L1        9.1_nH          L_0603_1608Metric                     -42.8780  -103.6730  -90.0000  bottom
+R4        10_kΩ          R_0402_1005Metric                     -61.0000  -101.2750  180.0000  bottom
+U1        23LCV1024-I/SN  SOIC-8_3.9x4.9mm_P1.27mm              -76.2000  -103.8000   90.0000  bottom
+U3        NRF9160         nRF9160                               -53.9780  -107.5000  180.0000  bottom
+U5        BGA524N6        TSNP-6-2                              -44.7780  -104.1000  180.0000  bottom
+U7        MIC94093YC6-TR  SOT-363_SC-70-6                       -83.7000  -112.0000  180.0000  bottom
+## End

@@ -1,0 +1,30 @@
+### Module positions - created on Wed Dec 21 15:12:22 2022 ###
+### Printed by Pcbnew version (6.0.7)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                PosX       PosY       Rot  Side
+C1        100_uF                CP_Elec_5x5.8                                       90.1000  -109.5000   90.0000  top
+C4        10_uF                 C_0805_2012Metric                                   83.7000  -106.9000    0.0000  top
+C10       220_pF                C_0402_1005Metric                                   67.9500  -109.3500  -90.0000  top
+C13       100_nF                C_0402_1005Metric                                   87.0000  -103.5650  -90.0000  top
+C17       10_uF                 C_0805_2012Metric                                   50.5280  -101.5000  180.0000  top
+C18       100_nF                C_0402_1005Metric                                   46.5280  -101.7500    0.0000  top
+C19       100_nF                C_0402_1005Metric                                   51.5280  -106.0000  -90.0000  top
+D1        LED                   LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder       92.3200  -102.1950   90.0000  top
+J2        Jack-DC               JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal    98.7000  -109.5000   90.0000  top
+J4        UART                  PinHeader_2x04_P2.54mm_Vertical                     73.0750  -112.8750   90.0000  top
+J6        FH26W-25S-0.3SHW(60)  HRS_FH26W-25S-0.3SHW(60)                            48.7780  -107.5000  -90.0000  top
+J9        SIM                   SIMNano                                             61.2000  -114.2000    0.0000  top
+J10       nRF_DBG               PinHeader_2x03_P1.27mm_Vertical                     70.2250  -103.7750  180.0000  top
+R1        12_MΩ                R_0402_1005Metric                                   88.2500  -103.5650  -90.0000  top
+R2        10_kΩ                R_0402_1005Metric                                   52.2500  -104.4790    0.0000  top
+R3        3.3_MΩ               R_0402_1005Metric                                   89.5000  -103.5650   90.0000  top
+R5        10_kΩ                R_0402_1005Metric                                   52.2500  -103.4550    0.0000  top
+R6        10_kΩ                R_0402_1005Metric                                   94.8000  -102.6000  180.0000  top
+R7        39_Ω                 R_0402_1005Metric                                   69.6000  -106.2500    0.0000  top
+R8        10_kΩ                R_0402_1005Metric                                   94.8000  -101.3000  180.0000  top
+SW1       RST                   SW_Push_1P1T_NO_CK_KMR2                             99.3000  -101.9000    0.0000  top
+SW2       BTA                   SW_Push_1P1T_NO_CK_KMR2                             78.4000  -102.9000  -90.0000  top
+U2        MCP1700-3302E_SOT23   SOT-23                                              84.5000  -110.9000  -90.0000  top
+U6        MSQA6V1W5T2G          SOT-353_SC-70-5                                     53.9000  -111.3550    0.0000  top
+## End
