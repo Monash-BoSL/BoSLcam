@@ -1,4 +1,4 @@
-### Module positions - created on Wed Dec 21 15:12:22 2022 ###
+### Module positions - created on Wed Apr 12 10:42:56 2023 ###
 ### Printed by Pcbnew version (6.0.7)
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -19,6 +19,7 @@ L1        9.1_nH          L_0603_1608Metric                     -42.8780  -103.6
 R4        10_kΩ          R_0402_1005Metric                     -61.0000  -101.2750  180.0000  bottom
 U1        23LCV1024-I/SN  SOIC-8_3.9x4.9mm_P1.27mm              -76.2000  -103.8000   90.0000  bottom
 U3        NRF9160         nRF9160                               -53.9780  -107.5000  180.0000  bottom
+U4        MIC94093YC6-TR  SOT-363_SC-70-6                       -66.6500  -112.3000  180.0000  bottom
 U5        BGA524N6        TSNP-6-2                              -44.7780  -104.1000  180.0000  bottom
 U7        MIC94093YC6-TR  SOT-363_SC-70-6                       -83.7000  -112.0000  180.0000  bottom
 ## End
