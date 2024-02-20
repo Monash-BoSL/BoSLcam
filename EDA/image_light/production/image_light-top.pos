@@ -1,0 +1,17 @@
+### Footprint positions - created on Tue Feb 20 15:34:26 2024 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                        Package                                           PosX       PosY       Rot  Side
+D1        XQAAWT-02-0000-00000B4E3
+  LED_Cree-XQ_HandSoldering                     115.2500   -99.8800   90.0000  top
+D2        XQAAWT-02-0000-00000B4E3
+  LED_Cree-XQ_HandSoldering                     119.0000   -99.8800   90.0000  top
+D3        XQAAWT-02-0000-00000B4E3
+  LED_Cree-XQ_HandSoldering                     123.0000   -99.8800   90.0000  top
+J1        Conn_01x03                 PinHeader_1x03_P2.54mm_Vertical               102.0000  -105.0800  180.0000  top
+Q1        DMN2310U                   SOT-23                                        110.0000  -104.0500    0.0000  top
+R1        49_Ω                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   115.2500  -104.5800  -90.0000  top
+R2        49_Ω                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   119.0000  -104.5800  -90.0000  top
+R3        49_Ω                      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   123.0000  -104.5800  -90.0000  top
+## End
